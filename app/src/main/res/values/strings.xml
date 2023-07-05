@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FoodDash</string>
+    <string name="title_home">Home</string>
+    <string name="title_salad">Salads</string>
+    <string name="title_drink">Drinks</string>
+</resources>
